@@ -20,26 +20,26 @@
 <br>
 
 
-## Proyectos:
+## Projects:
 
 <br>
 
-**Help Community** - Este fue un modelo de ecommerce con inicio de sesión, autenticación de terceros, carrito de compras, pasarela de pagos, reseñas, filtros de productos y perfil privado de administrador (con rutas protegidas, permite la posibilidad de crear y editar productos, filtrar por ventas, gestionar permisos de usuarios, acceder a métricas y enviar mails masivos a los usuarios registrados).
+**Help Community** - This was an ecommerce model with login, third-party authentication, shopping cart, payment gateway, reviews, product filters and a private administrator profile (with protected paths, allowing the ability to create and edit products, filter by sales, manage user permissions, access metrics and send mass emails to registered users).
 
 ####  💻 Deploy: [Help Community](https://help-community-theta.vercel.app/)
 
-####   Repositorios:
+####   Repositories:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/imante23/help-community/tree/main/Client)
  [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/imante23/help-community/tree/main/Api)
 
 <br>
 
 
-**Drivers App** - . Es un aplicación web Full Stack para que reune toda la información de todos los corredores de Formula 1. Cuenta con una base de datos propia para crear tarjetas de corredores nuevos, y una API externa para complementar con la información necesaria.  
+**Drivers App** -  It's a full-stack web application that gathers all the information on every Formula 1 driver. It has its own database for creating profiles of new drivers, and an external API to supplement it with the necessary information.
    
 ####  💻 Deploy: [Drivers App](https://f1drivers.vercel.app/)
 
-####   Repositorios:
+####   Repositories:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/imante23/drivers-app/tree/master/client)
  [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/imante23/drivers-app/tree/master/server)
 
